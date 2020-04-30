@@ -1,6 +1,5 @@
 # advanced-git-003
 
-<<<<<<< HEAD
 ## Links
 
 This section is for some git related links.
@@ -18,8 +17,6 @@ This section is for some git related links.
 - Uses vim as the default editor
 - Is a cmd tool
 - Was written in linux for linux, doesn't play nice with Windows
-<<<<<<< HEAD
->>>>>>> update readme
 =======
 
 ## Merge Tools
@@ -33,4 +30,3 @@ This section is for some git related links.
 - VS Code
 - vimdiff
 - Beyond Compare
->>>>>>> update readme
